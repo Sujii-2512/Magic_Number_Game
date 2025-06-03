@@ -31,7 +31,7 @@ This game challenges the player to guess a randomly generated number between 1 a
 
 ## How to Run 🚀
 
-1. Clone this repo
+1. Clone this Repository or Download ZIP
 2. Open `index.html` in your favorite web browser.
 3. Start guessing and have fun!
 
